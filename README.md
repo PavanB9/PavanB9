@@ -30,7 +30,7 @@ Currently looking for internship opportunities SWE.
 Tracked shipment data, built Excel reports for inventory trends, and flagged discrepancies in daily inbound/outbound records.
 
 **Software Engineer** @ Motate · Feb 2025 – May 2025  
-Built features for a web-based analytics dashboard using React and JavaScript. Used OpenAI API to automate repetitive dev tasks.
+Picked up frontend and backend tasks from GitHub Issues, implementing features and fixes across a web application using React and JavaScript
 
 ---
 
