@@ -1,8 +1,10 @@
 # Hey, I'm Pavan 👋
 
-CS student @ Rutgers University, graduating May 2028. 
+CS student @ Rutgers University, graduating May 2028.
 
-Currently looking for internship opportunities SWE.
+Currently looking for **SWE internship** opportunities.
+
+🌐 **[View my portfolio → pavanb9.github.io/portfolio](https://pavanb9.github.io/portfolio/)**
 
 ---
 
@@ -26,17 +28,19 @@ Currently looking for internship opportunities SWE.
 
 ## 💼 Experience
 
-**Data Analyst (Warehouse)** @ CCS Materials Inc. · Jun 2025 – Jul 2025  
+**Data Analyst (Warehouse)** @ CCS Materials Inc. · Jun 2025 - Jul 2025  
 Tracked shipment data, built Excel reports for inventory trends, and flagged discrepancies in daily inbound/outbound records.
 
-**Software Engineer** @ Motate · Feb 2025 – May 2025  
-Picked up frontend and backend tasks from GitHub Issues, implementing features and fixes across a web application using React and JavaScript
+**Software Engineer** @ Motate · Feb 2025 - May 2025  
+Picked up frontend and backend tasks from GitHub Issues, implementing features and fixes across a web application using React and JavaScript.
 
 ---
 
 ## 🚀 Projects
 
-**[InvTrendDB](https://github.com/PavanB9/InvTrendDB)** — Interactive inventory analytics dashboard with anomaly detection. Upload a shipment CSV and get trend charts + automatic flagging of outliers. Built with Python and Streamlit. [Live demo →](https://invtrend-db.streamlit.app/)
+**[CamHeart](https://github.com/PavanB9/CamHeart)**: Browser-based heart-rate, breathing, and stress tracker using rPPG webcam signal processing. Runs fully client-side, so no video ever leaves your machine. [Live demo →](https://pavanb9.github.io/CamHeart/)
+
+**[InvTrendDB](https://github.com/PavanB9/InvTrendDB)**: Interactive inventory analytics dashboard with anomaly detection. Upload a shipment CSV and get trend charts plus automatic flagging of outliers. Built with Python and Streamlit. [Live demo →](https://invtrend-db.streamlit.app/)
 
 ---
 
