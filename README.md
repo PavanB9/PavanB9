@@ -36,11 +36,15 @@ Picked up frontend and backend tasks from GitHub Issues, implementing features a
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 **[CamHeart](https://github.com/PavanB9/CamHeart)**: Browser-based heart-rate, breathing, and stress tracker using rPPG webcam signal processing. Runs fully client-side, so no video ever leaves your machine. [Live demo →](https://pavanb9.github.io/CamHeart/)
 
 **[InvTrendDB](https://github.com/PavanB9/InvTrendDB)**: Interactive inventory analytics dashboard with anomaly detection. Upload a shipment CSV and get trend charts plus automatic flagging of outliers. Built with Python and Streamlit. [Live demo →](https://invtrend-db.streamlit.app/)
+
+**[Gesture Guard](https://github.com/PavanB9/gesture-guard)**: A local, real-time webcam privacy guard for video calls. Detects yawning, face-touching, and background intrusion, then blurs the feed instantly. Built with Tauri, React, and a Python/MediaPipe detection engine.
+
+**[SimpleScrollSC](https://github.com/PavanB9/SimpleScrollSC)**: A scrolling screenshot tool that captures a window section by section and stitches it into one high-resolution image. Point-and-click window picking, PNG/JPEG output, fully offline.
 
 ---
 
