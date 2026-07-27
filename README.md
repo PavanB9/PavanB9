@@ -51,4 +51,4 @@ Picked up frontend and backend tasks from GitHub Issues, implementing features a
 ## 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavankbl-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pavankbl)
-[![Email](https://img.shields.io/badge/Email-pavankrishna2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankrishna2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pavanbandla99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanbandla99@gmail.com)
