@@ -49,6 +49,8 @@ Picked up frontend and backend tasks from GitHub Issues, implementing features a
 
 ## 🚀 Featured Projects
 
+**[CarManualRAG](https://github.com/PavanB9/CarManualRAG)**: A RAG chat app that answers car questions straight from your own owner's manual PDF, with clickable page citations instead of generic or hallucinated answers. Backed by a real eval suite (retrieval accuracy, correctness, faithfulness) and a tuning dashboard.
+
 **[VidGif](https://github.com/PavanB9/VidGif)**: A clean video-to-GIF maker for macOS and Windows. Trims a clip and runs a two-pass ffmpeg palette generation and dithering pipeline for sharp, small GIFs instead of the usual banded output.
 
 **[CamHeart](https://github.com/PavanB9/CamHeart)**: Browser-based heart-rate, breathing, and stress tracker using rPPG webcam signal processing. Runs fully client-side, so no video ever leaves your machine. [Live demo →](https://pavanb9.github.io/CamHeart/)
