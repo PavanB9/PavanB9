@@ -51,8 +51,6 @@ Picked up frontend and backend tasks from GitHub Issues, implementing features a
 
 **[CarManualRAG](https://github.com/PavanB9/CarManualRAG)**: A RAG chat app that answers car questions straight from your own owner's manual PDF, with clickable page citations instead of generic or hallucinated answers. Backed by a real eval suite (retrieval accuracy, correctness, faithfulness) and a tuning dashboard.
 
-**[VidGif](https://github.com/PavanB9/VidGif)**: A clean video-to-GIF maker for macOS and Windows. Trims a clip and runs a two-pass ffmpeg palette generation and dithering pipeline for sharp, small GIFs instead of the usual banded output.
-
 **[CamHeart](https://github.com/PavanB9/CamHeart)**: Browser-based heart-rate, breathing, and stress tracker using rPPG webcam signal processing. Runs fully client-side, so no video ever leaves your machine. [Live demo →](https://pavanb9.github.io/CamHeart/)
 
 **[Gesture Guard](https://github.com/PavanB9/gesture-guard)**: A local, real-time webcam privacy guard for video calls. Detects yawning, face-touching, and background intrusion, then blurs the feed instantly. Built with Tauri, React, and a Python/MediaPipe detection engine.
@@ -60,6 +58,8 @@ Picked up frontend and backend tasks from GitHub Issues, implementing features a
 **[SimpleScrollSC](https://github.com/PavanB9/SimpleScrollSC)**: A scrolling screenshot tool that captures a window section by section and stitches it into one high-resolution image. Point-and-click window picking, PNG/JPEG output, fully offline.
 
 **[InvTrendDB](https://github.com/PavanB9/InvTrendDB)**: Interactive inventory analytics dashboard with anomaly detection. Upload a shipment CSV and get trend charts plus automatic flagging of outliers. Built with Python and Streamlit. [Live demo →](https://invtrend-db.streamlit.app/)
+
+**[VidGif](https://github.com/PavanB9/VidGif)**: A clean video-to-GIF maker for macOS and Windows. Trims a clip and runs a two-pass ffmpeg palette generation and dithering pipeline for sharp, small GIFs instead of the usual banded output.
 
 ---
 
