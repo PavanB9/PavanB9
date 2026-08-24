@@ -16,7 +16,7 @@ Currently looking for **SWE internship** opportunities.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMTIiIHk9IjE3LjUiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjgwMCIgZm9udC1zaXplPSIxMyIgZmlsbD0iI2ZmZmZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI%2BQyM8L3RleHQ%2BPC9zdmc%2BCg%3D%3D)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,13 +27,13 @@ Currently looking for **SWE internship** opportunities.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTEyIDJsMS44IDYuMkwyMCAxMGwtNi4yIDEuOEwxMiAxOGwtMS44LTYuMkw0IDEwbDYuMi0xLjhMMTIgMnoiLz48L3N2Zz4K)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTggNSAzIDEybDUgN00xNiA1bDUgNy01IDdNMTMuNSA0bC0zIDE2Ii8%2BPC9zdmc%2BCg%3D%3D)
 
 ---
 
@@ -49,7 +49,7 @@ Picked up frontend and backend tasks from GitHub Issues, implementing features a
 
 ## 🚀 Featured Projects
 
-**[CarManualRAG](https://github.com/PavanB9/CarManualRAG)**: A RAG chat app that answers car questions straight from your own owner's manual PDF, with clickable page citations instead of generic or hallucinated answers. Backed by a real eval suite (retrieval accuracy, correctness, faithfulness) and a tuning dashboard.
+**[CarManualRAG](https://github.com/PavanB9/CarManualRAG)**: A RAG chat app that answers car questions straight from your own owner's manual PDF, with clickable page citations instead of generic or hallucinated answers. Backed by a real eval suite (retrieval accuracy, correctness, faithfulness) and a tuning dashboard. Ships with Docker Compose, so both services start with one command instead of two separate servers.
 
 **[CamHeart](https://github.com/PavanB9/CamHeart)**: Browser-based heart-rate, breathing, and stress tracker using rPPG webcam signal processing. Runs fully client-side, so no video ever leaves your machine. [Live demo →](https://pavanb9.github.io/CamHeart/)
 
