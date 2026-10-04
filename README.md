@@ -39,11 +39,14 @@ Currently looking for **SWE internship** opportunities.
 
 ## 💼 Experience
 
-**Data Analyst (Warehouse)** @ CCS Materials Inc. · Jun 2025 - Jul 2025  
-Tracked shipment data, built Excel reports for inventory trends, and flagged discrepancies in daily inbound/outbound records.
+**Software Engineer Intern** @ Hyflix AI · Jun 2026 - Aug 2026  
+Built full-stack features and secure backend integrations for an LLM agent platform, letting AI agents query SQL data and call APIs through authenticated, validated REST endpoints.
 
-**Software Engineer** @ Motate · Feb 2025 - May 2025  
-Picked up frontend and backend tasks from GitHub Issues, implementing features and fixes across a web application using React and JavaScript.
+**AI & Data Engineering Intern** @ CCS Materials Inc. · Jun 2025 - Jul 2025  
+Built a Python and OpenAI API agent that ingests 300+ daily shipment records, generates trend summaries and delay alerts, and flags discrepancies, replacing a manual weekly Excel workflow.
+
+**Software Engineer Intern** @ Motate · Feb 2025 - May 2025  
+Built responsive React and JavaScript components for an analytics dashboard and prototyped an OpenAI-powered reporting tool that cut manual report prep time by 50%.
 
 ---
 
@@ -67,3 +70,4 @@ Picked up frontend and backend tasks from GitHub Issues, implementing features a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pavankbl-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pavankbl)
 [![Email](https://img.shields.io/badge/Email-pavanbandla99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanbandla99@gmail.com)
+
