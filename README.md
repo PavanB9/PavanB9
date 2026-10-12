@@ -22,6 +22,7 @@ Currently looking for **SWE internship** opportunities.
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -33,6 +34,8 @@ Currently looking for **SWE internship** opportunities.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTggNSAzIDEybDUgN00xNiA1bDUgNy01IDdNMTMuNSA0bC0zIDE2Ii8%2BPC9zdmc%2BCg%3D%3D)
 
 ---
@@ -51,6 +54,8 @@ Built responsive React and JavaScript components for an analytics dashboard and 
 ---
 
 ## 🚀 Featured Projects
+
+**[Trialo](https://github.com/MaybeSam05/Trialo)** 🏆 **HackRU Winner**: Clinical trial pre-screening by voice. A coordinator shares a link or QR code, a participant has a short spoken conversation with Ollie, an animated ElevenLabs voice agent, and the research team gets structured answers and a preliminary match summary on a live dashboard. Built with a team in Next.js, TypeScript, Supabase, and ElevenLabs. [Live app →](https://trialo-regen.netlify.app) · [Demo video →](https://youtu.be/p8G9bIwuqiw)
 
 **[CarManualRAG](https://github.com/PavanB9/CarManualRAG)**: A RAG chat app that answers car questions straight from your own owner's manual PDF, with clickable page citations instead of generic or hallucinated answers. Backed by a real eval suite (retrieval accuracy, correctness, faithfulness) and a tuning dashboard. Ships with Docker Compose, so both services start with one command instead of two separate servers.
 
